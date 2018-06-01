@@ -15,6 +15,7 @@ gem 'jquery-rails'
 gem 'bootstrap', '4.1.1'
 gem 'jquery-datatables-rails', '~> 3.4.0'
 gem 'mdb'
+gem 'webpacker', '~> 3.5'
 gem 'mysql2', '0.3.18'
 # Use sqlite3 as the database for Active Record
 # gem 'sqlite3'
