@@ -17,7 +17,7 @@ gem 'jquery-datatables-rails', '~> 3.4.0'
 gem 'mdb'
 gem 'mysql2', '0.3.18'
 # Use sqlite3 as the database for Active Record
-gem 'sqlite3'
+# gem 'sqlite3'
 # Use Puma as the app server
 gem 'puma', '~> 3.7'
 # Use SCSS for stylesheets
